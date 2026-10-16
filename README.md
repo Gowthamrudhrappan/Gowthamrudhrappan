@@ -1,22 +1,18 @@
 <div align="center">
 
-# GOWTHAM R
+<img src="assets/profile-hero.svg" alt="Gowtham R — Design, Technology, AI" width="100%" />
 
-### UI/UX DESIGNER · CREATIVE TECHNOLOGIST · AI ENTHUSIAST
+<br/>
 
-**I turn ideas into intuitive digital experiences.**
-
-Design × Technology × AI
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Gowthamrudhrappan/Gowtham_R)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Gowthamrudhrappan/Gowtham_R)
 [![GitHub](https://img.shields.io/badge/GITHUB-Projects-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gowthamrudhrappan)
-[![VIP25](https://img.shields.io/badge/VIP25-Explore-176B4D?style=for-the-badge)](https://vip25.online)
+[![VIP25](https://img.shields.io/badge/VIP25-Visit-176B4D?style=for-the-badge)](https://vip25.online)
 
 </div>
 
 ---
 
-## ABOUT
+## ✦ THE IDEA
 
 I’m a designer and creative technologist interested in building digital products that feel clear, useful, and memorable. My work connects user experience, visual storytelling, web experiences, and emerging AI tools.
 
@@ -24,11 +20,11 @@ I’m a designer and creative technologist interested in building digital produc
 <tr>
 <td width="50%" valign="top">
 
-### ✳ DESIGN
+### ◈ DESIGN
 - UI/UX and product design
-- User flows and wireframes
-- Prototyping and design systems
-- Visual communication and branding
+- User flows, wireframes, prototypes
+- Design systems and visual language
+- Brand experiences and storytelling
 
 </td>
 <td width="50%" valign="top">
@@ -43,7 +39,7 @@ I’m a designer and creative technologist interested in building digital produc
 </tr>
 </table>
 
-## SELECTED WORK
+## ⬡ SELECTED PROJECTS
 
 <table>
 <tr>
@@ -52,7 +48,7 @@ I’m a designer and creative technologist interested in building digital produc
 ### 🌐 Personal Portfolio
 My portfolio and design/development work.
 
-[**Explore Gowtham_R →**](https://github.com/Gowthamrudhrappan/Gowtham_R)
+[**EXPLORE PROJECT ↗**](https://github.com/Gowthamrudhrappan/Gowtham_R)
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +56,7 @@ My portfolio and design/development work.
 ### 🧠 AI Career Recommendation
 Career recommendation and salary insights dashboard.
 
-[**Explore project →**](https://github.com/Gowthamrudhrappan/Personal-AI-Career-Recommendation-Salary-Predictor-Dashboard)
+[**EXPLORE PROJECT ↗**](https://github.com/Gowthamrudhrappan/Personal-AI-Career-Recommendation-Salary-Predictor-Dashboard)
 
 </td>
 </tr>
@@ -70,7 +66,7 @@ Career recommendation and salary insights dashboard.
 ### 💓 Heart Disease Risk Predictor
 A machine-learning project exploring health-risk prediction.
 
-[**Explore project →**](https://github.com/Gowthamrudhrappan/Heart-Disease-Risk-Predictor)
+[**EXPLORE PROJECT ↗**](https://github.com/Gowthamrudhrappan/Heart-Disease-Risk-Predictor)
 
 </td>
 <td width="50%" valign="top">
@@ -78,13 +74,13 @@ A machine-learning project exploring health-risk prediction.
 ### 🧭 PIVOTPATH
 An AI-oriented career transition advisor concept.
 
-[**Explore project →**](https://github.com/Gowthamrudhrappan/PIVOTPATH-AI-CAREER-TRANSITION-ADVISOR)
+[**EXPLORE PROJECT ↗**](https://github.com/Gowthamrudhrappan/PIVOTPATH-AI-CAREER-TRANSITION-ADVISOR)
 
 </td>
 </tr>
 </table>
 
-## TOOLKIT
+## ◉ TOOLKIT
 
 <div align="center">
 
@@ -98,10 +94,10 @@ An AI-oriented career transition advisor concept.
 
 </div>
 
-## CURRENT FOCUS
+## ⟳ WHAT I'M EXPLORING
 
-- Creating better digital experiences through design and iteration
-- Exploring practical uses for generative AI
+- Making digital products more intuitive through design iteration
+- Finding practical, useful applications for generative AI
 - Building and documenting projects that solve real problems
 
 ---

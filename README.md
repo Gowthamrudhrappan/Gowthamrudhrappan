@@ -2,112 +2,130 @@
 
 <img src="assets/profile-hero.svg" alt="Gowtham R — Design, Technology, AI" width="100%" />
 
-<br/>
+### I MAKE DIGITAL THINGS FEEL SIMPLE, DISTINCT, AND USEFUL.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Gowthamrudhrappan/Gowtham_R)
-[![GitHub](https://img.shields.io/badge/GITHUB-Projects-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gowthamrudhrappan)
-[![VIP25](https://img.shields.io/badge/VIP25-Visit-176B4D?style=for-the-badge)](https://vip25.online)
+[![Portfolio](https://img.shields.io/badge/01—PORTFOLIO-Explore-101411?style=for-the-badge&logo=googlechrome&logoColor=9AFFB9)](https://github.com/Gowthamrudhrappan/Gowtham_R)
+[![Projects](https://img.shields.io/badge/02—PROJECTS-Browse-101411?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Gowthamrudhrappan)
+[![VIP25](https://img.shields.io/badge/03—VIP25-Visit-101411?style=for-the-badge&logoColor=E5CA72)](https://vip25.online)
 
 </div>
 
 ---
 
-## ✦ THE IDEA
+<img src="assets/creative-loop.svg" alt="Observe. Design. Build. The creative loop." width="100%" />
 
-I’m a designer and creative technologist interested in building digital products that feel clear, useful, and memorable. My work connects user experience, visual storytelling, web experiences, and emerging AI tools.
+## / 01 — THE PRACTICE
+
+I’m a UI/UX designer and creative technologist exploring the space between **human-centered design, interactive web, and AI**. I like turning rough ideas into clear systems, expressive visuals, and useful digital products.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ◈ DESIGN
-- UI/UX and product design
-- User flows, wireframes, prototypes
-- Design systems and visual language
-- Brand experiences and storytelling
+### ◇ THINK
+**Understand the problem.**
+
+User journeys, research, information architecture, and product strategy.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ⌘ BUILD & EXPLORE
-- Interactive web experiences
-- Front-end experiments
-- Generative AI concepts
-- Machine-learning projects
+### ✳ DESIGN
+**Give the idea a form.**
+
+Interfaces, prototypes, design systems, visual storytelling, and brand language.
+
+</td>
+<td width="33%" valign="top">
+
+### ⌘ BUILD
+**Make it real.**
+
+Web experiments, AI concepts, working prototypes, and iterative improvement.
 
 </td>
 </tr>
 </table>
 
-## ⬡ SELECTED PROJECTS
+## / 02 — SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
-My portfolio and design/development work.
+[![Portfolio](https://img.shields.io/badge/01-PORTFOLIO-101411?style=for-the-badge&logoColor=white)](https://github.com/Gowthamrudhrappan/Gowtham_R)
 
-[**EXPLORE PROJECT ↗**](https://github.com/Gowthamrudhrappan/Gowtham_R)
+### Gowtham_R
+My personal portfolio and creative playground for design and development.
+
+[OPEN PROJECT ↗](https://github.com/Gowthamrudhrappan/Gowtham_R)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Career Recommendation
-Career recommendation and salary insights dashboard.
+[![AI Project](https://img.shields.io/badge/02-APPLIED_AI-173B2A?style=for-the-badge&logoColor=white)](https://github.com/Gowthamrudhrappan/Personal-AI-Career-Recommendation-Salary-Predictor-Dashboard)
 
-[**EXPLORE PROJECT ↗**](https://github.com/Gowthamrudhrappan/Personal-AI-Career-Recommendation-Salary-Predictor-Dashboard)
+### Career Recommendation & Salary Predictor
+Exploring career recommendations and salary insights with an AI-focused dashboard.
+
+[OPEN PROJECT ↗](https://github.com/Gowthamrudhrappan/Personal-AI-Career-Recommendation-Salary-Predictor-Dashboard)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💓 Heart Disease Risk Predictor
-A machine-learning project exploring health-risk prediction.
+[![ML Project](https://img.shields.io/badge/03-MACHINE_LEARNING-173B2A?style=for-the-badge&logoColor=white)](https://github.com/Gowthamrudhrappan/Heart-Disease-Risk-Predictor)
 
-[**EXPLORE PROJECT ↗**](https://github.com/Gowthamrudhrappan/Heart-Disease-Risk-Predictor)
+### Heart Disease Risk Predictor
+A machine-learning project focused on health-risk prediction.
+
+[OPEN PROJECT ↗](https://github.com/Gowthamrudhrappan/Heart-Disease-Risk-Predictor)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 PIVOTPATH
+[![AI Concept](https://img.shields.io/badge/04-CAREER_TECH-101411?style=for-the-badge&logoColor=white)](https://github.com/Gowthamrudhrappan/PIVOTPATH-AI-CAREER-TRANSITION-ADVISOR)
+
+### PIVOTPATH
 An AI-oriented career transition advisor concept.
 
-[**EXPLORE PROJECT ↗**](https://github.com/Gowthamrudhrappan/PIVOTPATH-AI-CAREER-TRANSITION-ADVISOR)
+[OPEN PROJECT ↗](https://github.com/Gowthamrudhrappan/PIVOTPATH-AI-CAREER-TRANSITION-ADVISOR)
 
 </td>
 </tr>
 </table>
 
-## ◉ TOOLKIT
+## / 03 — THE TOOLKIT
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-Design-0D0D0D?style=flat-square&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-Visuals-0D0D0D?style=flat-square&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-Graphics-0D0D0D?style=flat-square&logo=adobeillustrator)
-![HTML5](https://img.shields.io/badge/HTML5-Web-0D0D0D?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Styles-0D0D0D?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-0D0D0D?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-AI_Experiments-0D0D0D?style=flat-square&logo=python)
+![Figma](https://img.shields.io/badge/Figma-Design-101411?style=flat-square&logo=figma&logoColor=9AFFB9)
+![Photoshop](https://img.shields.io/badge/Photoshop-Visuals-101411?style=flat-square&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-Graphics-101411?style=flat-square&logo=adobeillustrator)
+![HTML5](https://img.shields.io/badge/HTML5-Web-101411?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-101411?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-101411?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Experiments-101411?style=flat-square&logo=python)
 
 </div>
 
-## ⟳ WHAT I'M EXPLORING
+## / 04 — CURRENT CURIOSITIES
 
-- Making digital products more intuitive through design iteration
-- Finding practical, useful applications for generative AI
-- Building and documenting projects that solve real problems
+- How can interfaces communicate more with less?
+- Where can AI genuinely improve a user's experience?
+- How can motion and interaction make digital products feel more intuitive?
 
 ---
 
 <div align="center">
 
-### HAVE AN IDEA? LET'S BUILD SOMETHING USEFUL.
+### GOOD DESIGN ISN'T DECORATION. IT'S HOW THE IDEA WORKS.
 
-[GitHub Profile](https://github.com/Gowthamrudhrappan) · [VIP25](https://vip25.online)
+**Have an interesting problem? Let's make something meaningful.**
 
-<sub>Designed with curiosity. Built through experimentation.</sub>
+[GitHub](https://github.com/Gowthamrudhrappan) · [VIP25](https://vip25.online)
+
+<sub>DESIGNED WITH CURIOSITY · BUILT THROUGH EXPERIMENTATION</sub>
 
 </div>
